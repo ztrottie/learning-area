@@ -15,12 +15,12 @@ The overall mark awarded is out of 22. Work out their final mark, and then divid
 ## Styling the box
 
 <dl>
-<dt>"A reasonable width for a large button." (1 mark)</dt>
-<dd>One mark for giving the paragraph a <code>width</code> of around 150-300px. This is fairly hard to not get, as long as it isn't set to 1000px, or 50px.</dd>
-<dt>"A reasonable height for a large button, centering the text vertically." (1 mark)</dt>
-<dd>One mark for giving the paragraph a <code>line-height</code> of around 2-4. Again, award the mark as long as it doesn't look ridiculous.</dd>
+<dt>"A reasonable width for a large box." (1 mark)</dt>
+  <dd>One mark for giving the <code>div</code> a <code>width</code> of around 150-300px. This is fairly hard to not get, as long as it isn't set to 1000px, or 50px.</dd>
+<dt>"A reasonable height for a large box, centering the text vertically." (1 mark)</dt>
+  <dd>One mark for giving the <code>div</code> a <code>line-height</code> of around 2-4. Again, award the mark as long as it doesn't look ridiculous.</dd>
 <dt>"Centered text." (1 mark)</dt>
-<dd>One mark for giving the paragraph <code>margin</code> of <code>0 auto</code>, or <code>auto</code>, or similar.</dd>
+<dd>One mark for giving the <code>div</code> <code>margin</code> of <code>0 auto</code>, or <code>auto</code>, or similar.</dd>
 <dt>"A slight Increase in font size, to around 17-18px computed style. Use rems." (2 marks)</dt>
 <dd>One mark for setting an appropriate <code>font-size</code> (somewhere between 1.0625-1.125rem), and one mark for a good explanation. Something like recalling that the default font size is 16px, and calculating an exact rem value (e.g. 17/16), or approximating it and checking it in the browser dev tools, will do fine.</dd>
 <dt>"A base color for the design. Give the box this color as its background color." (1 mark)</dt>
