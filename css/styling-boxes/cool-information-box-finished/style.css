@@ -6,13 +6,15 @@ p {
   /* sizing and position */
   width: 200px;
   margin: auto;
-  line-height: 3;
+  line-height: 9;
   /* text */
   font-size: 1.1rem;
   /* Since the default font-size is 16px, I guessed that the correct
   size would be 1.1rem. I set it, then checked it in the dev tools. */
   text-align: center;
-  color: #ff0000;
+  color: white;
+  /* Choose a text color which contrasts well with it's background
+  ...again make use of the dev tools! */
   text-shadow: 1px 1px 1px black;
   /*border*/
   border-radius: 10px;
